@@ -17,4 +17,4 @@
 9. Úloha SKI - "Inšpektor meškaní: Kde sú vlaky?" [WIP]
 10. Úloha SKJ - "Jankine lístky" [WIP]
 11. Úloha SKK - "Kreslenie" [WIP]
-12. Úloha SKL - "Leremiáš a Miško" [WIP]
+12. [Úloha SKL - "Leremiáš a Miško"](SKL/)
