@@ -1,6 +1,6 @@
-# Úloha KK-B
+# Úloha KK-C
 
-Odkaz na úlohu nájdeš tu: https://zenit.ksp.sk/task/zenit24kkb
+Odkaz na úlohu nájdeš tu: https://zenit.ksp.sk/task/zenit24kkc
 
 Celé znenie zadania nájdeš na konci tohto `README`
 

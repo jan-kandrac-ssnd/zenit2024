@@ -28,13 +28,13 @@ a nepárnych pozíciách. “Ach, jaj,” hnevá sa Boris. “Nielenže nemám s
 svoje obľúbené číslo nemám vôbec. Aké číslo to vlastne mám?”
 
 ## Úloha
-Na vstupe dostanete číslo `${N}` - Borisove obľúbené číslo. Vašou úlohou je vypísať číslo, ktoré dostaneme, keď v
-binárnom zápise `${N}` vymeníme číslice na párnych a nepárnych pozíciách (1. a 2. sprava, 3. a 4. sprava, …)
+Na vstupe dostanete číslo $`N`$ - Borisove obľúbené číslo. Vašou úlohou je vypísať číslo, ktoré dostaneme, keď v
+binárnom zápise $`N`$ vymeníme číslice na párnych a nepárnych pozíciách (1. a 2. sprava, 3. a 4. sprava, …)
 a potom číslo znovu zmeníme do desiatkovej sústavy.
 
 
 ## Vstup a Výstup
-Na jedinom riadku vstupu sa nachádza celé číslo `${N, (1 \leq N \leq 10^15)}`.
+Na jedinom riadku vstupu sa nachádza celé číslo $`N, (1 \leq N \leq 10^{15})`$.
 
 Na jeden riadok vypíšte celé číslo zodpovedajúce číslu, ktoré dostaneme po výmene číslic v binárnom zápise na párnych a nepárnych pozíciách.
 
@@ -65,4 +65,3 @@ Output:
 ```
 7
 ```
-
